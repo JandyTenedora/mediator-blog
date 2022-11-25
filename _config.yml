@@ -22,7 +22,7 @@ author_image: "/assets/images/jandy_library.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://jandy-tenedora-blog.netlify.app" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@jandy_tenedora'
